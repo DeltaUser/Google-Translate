@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Google Translate Menu",
+    "version": "1",
+    "description": "A way to edit google translate, and have a menu to edit with.",
+    "icons": {
+        "38": "icon.png"
+    },
+    "browser_action": { 
+        "default_title": "Click here to be prompted to google translate.", 
+        "default_icon": "icon.png"
+    },
+    "background": {
+        "scripts": [ "index.js" ]
+    },
+    "permissions": ["tabs", "http://*/*", "https://*/*","activeTab"]
+}
