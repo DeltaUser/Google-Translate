@@ -37,7 +37,7 @@ To use this, **search up translate on google**, once done press **CTRL + SHIFT +
 #### To know that you have added it, a little window will say something of the lines of 'You can now press Shift = to start the translate!', make sure you have added it.
 
 ## 1.3 Chrome Extension
-*NOTE: This is for windows, may differ if you have a different operating system.  
+***NOTE: This is for windows, may differ if you have a different operating system.***
 
 First you need to install the extension folder, [click here](https://github.com/DeltaUser/Google-Translate/archive/master.zip) or just click on the download button at the [repo](https://github.com/DeltaUser/Google-Translate).
 
