@@ -28,6 +28,8 @@ settings.ms = milliseconds;
  
 ## 1. Adding
 
+# 1.2 TEST
+
 To use this, **search up translate on google**, once done press **CTRL + SHIFT + I**, there will be a section opened, click on the console tab and paste in [this code without any other text](https://raw.githubusercontent.com/DeltaUser/Google-Translate/master/index.js).
 
 #### To know that you have added it, a little window will say something of the lines of 'You can now press Shift = to start the translate!', make sure you have added it.
